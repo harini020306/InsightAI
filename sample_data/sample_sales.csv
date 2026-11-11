@@ -1,0 +1,13 @@
+Date,Region,Product,Units_Sold,Unit_Price,Marketing_Spend,Customer_Rating
+2026-01-01,North,Laptop,20,500,1000,4.2
+2026-01-02,South,Mobile,35,300,1500,4.5
+2026-01-03,East,Tablet,15,200,800,3.9
+2026-01-04,West,Laptop,28,500,1200,4.1
+2026-01-05,North,Mobile,40,300,1800,4.7
+2026-01-06,South,Tablet,18,200,900,4.0
+2026-01-07,East,Laptop,32,500,1400,4.3
+2026-01-08,West,Mobile,25,300,1100,4.2
+2026-01-09,North,Tablet,22,200,950,4.1
+2026-01-10,South,Laptop,45,500,2000,4.8
+2026-01-11,East,Mobile,30,300,1300,4.4
+2026-01-12,West,Tablet,38,200,1700,4.6
