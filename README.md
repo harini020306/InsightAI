@@ -15,7 +15,6 @@ InsightAI is an interactive data analysis and machine learning application built
 - **Prediction System:** Enter new feature values and generate predictions.
 
 ## 🛠️ Technologies Used
-
 - Python
 - Streamlit
 - Pandas
